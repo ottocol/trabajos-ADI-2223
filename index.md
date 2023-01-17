@@ -1,22 +1,9 @@
-# Trabajos en grupo de la asignatura de Aplicaciones Distribuídas en Internet
-## Universidad de Alicante, curso 2022-23
-
-
-## Procedimiento para las votaciones
-
-- El plazo de votaciones concluye el viernes 27 de enero a las 23:59
-- Las votaciones hay que enviarlas mediante tutoría de uno de los componentes del grupo
-- Cada grupo puede asignar 11 puntos a los trabajos del resto de grupos, solo se puede puntuar con 2 puntos, 1 punto o no asignar. 
-- Cada grupo que vote al resto tiene 0,5 puntos más en el trabajo
-- No se pueden dejar puntos por asignar, tenéis que repartir los 11
-- No se publicarán las notas de los trabajos hasta el final para no influir en las votaciones
-
 
 ## Listado de los trabajos
 
 > - Los trabajos están listados por orden de fecha de entrega
-> - Por favor revisad que los enlaces de vuestro trabajo son correctos para que puedan acceder vuestr@s compañer@s
-> - No he puesto en algunos casos todo el material que me habéis enviado por verlo innecesario o que quizá no querríais difundirlo, pero **si queréis que añada algo a la web decídmelo, o al contrario, si preferís que algo no sea público**
+> - Por favor revisad que los enlaces de vuestro trabajo son correctos para que puedan acceder vuestr@s compañer@s y que está todo el material puesto	
+> - No he puesto en algunos casos todo el material que me habéis enviado por verlo innecesario o que quizá no querríais difundirlo, pero **si queréis que añada algo a la web decídmelo, o al contrario, lo elimino si preferís que algo no sea público**
 
 ## Svelte para principiantes
 ### Vicente José Moreno Rebollo , Madani El Mrabet Martínez y Aaron García Villena
